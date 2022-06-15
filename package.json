@@ -1,0 +1,22 @@
+{
+	"name": "dsa",
+	"version": "1.0.0",
+	"description": "DSA questions and code solutions",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rupamkerketta/DSA.git"
+	},
+	"author": "Rupam Kerketta",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/rupamkerketta/DSA/issues"
+	},
+	"homepage": "https://github.com/rupamkerketta/DSA#readme",
+	"dependencies": {
+		"jest": "^28.1.1"
+	}
+}

@@ -10,7 +10,7 @@ function twoSum(nums, target) {
 	const arrMap = new Map()
 
 	// Iterate over the array
-	for (let i = 0; i < arr.length; i++) {
+	for (let i = 0; i < nums.length; i++) {
 		if (arrMap.has(target - nums[i])) {
 			return [i, arrMap.get(target - nums[i])]
 		} else {
@@ -23,3 +23,5 @@ function twoSum(nums, target) {
 	// If a valid pair doesn't exist then return an empty array
 	return []
 }
+
+module.exports = twoSum
