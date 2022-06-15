@@ -2,10 +2,10 @@
 
 ## Level 01
 
-| #   | Questions                                                                                                                    | code                   | repl.it                                                              |
-| --- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------- |
-| 1.  | [Two Sum](https://leetcode.com/problems/two-sum/description)                                                                 | [:link:](./code/01.js) | [:link:](https://replit.com/@rupamkerketta/rickety-ricks-dsa#001.js) |
-| 2.  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                              |
+| #   | Questions                                                                                                                    | code                       | repl.it                                                              |
+| --- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------- |
+| 1.  | [Two Sum](https://leetcode.com/problems/two-sum/description)                                                                 | [:link:](./code/L01/01.js) | [:link:](https://replit.com/@rupamkerketta/rickety-ricks-dsa#001.js) |
+| 2.  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                              | [:link:](./code/L01/02.js) | [:link:](https://replit.com/@rupamkerketta/rickety-ricks-dsa#002.js) |
 | 3.  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                        |
 | 4.  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                          |
 | 5.  | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                      |
