@@ -17,6 +17,7 @@ function maximumSub01(nums) {
 			}
 		}
 	}
+	return maxSum
 }
 
 // Optimal solution
